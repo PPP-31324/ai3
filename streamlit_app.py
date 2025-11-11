@@ -72,7 +72,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[0]: {
        "texts": ["김채원은 르세라핌 리더입니다."],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-    #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
+       "videos": ["https://youtu.be/COR_jj7prNE?si=4EVK0lgp3e5EIhuK"]
      },
 }
 

@@ -74,6 +74,20 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://image.lawtimes.co.kr/images/192523.jpg"],
        "videos": ["https://youtu.be/COR_jj7prNE?si=4EVK0lgp3e5EIhuK"]
      },
+
+     labels[1]: {
+       "texts": ["윈터는 에스파에서 가장 귀엽습니다. "],
+       "images": ["https://image.lawtimes.co.kr/images/192523.jpg"],
+       "videos": ["https://youtu.be/COR_jj7prNE?si=4EVK0lgp3e5EIhuK"]
+     },
+
+     labels[3]: {
+       "texts": ["오해원은 엔믹스에서 재밌습니다."],
+       "images": ["https://image.lawtimes.co.kr/images/192523.jpg"],
+       "videos": ["https://youtu.be/COR_jj7prNE?si=4EVK0lgp3e5EIhuK"]
+     },
+
+    
 }
 
 # ======================

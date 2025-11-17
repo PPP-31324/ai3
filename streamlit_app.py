@@ -83,7 +83,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[2]: {
        "texts": ["오해원은 엔믹스에서 재밌습니다."],
-       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FDDyCebtz1tv%2F&psig=AOvVaw2cW9ShH5d3zAwP63vafBOk&ust=1763424327823000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjo4Nvx95ADFQAAAAAdAAAAABAE"],
+       "images": ["https://www.google.com/imgres?q=%EC%98%A4%ED%95%B4%EC%9B%90&imgurl=https%3A%2F%2Flookaside.instagram.com%2Fseo%2Fgoogle_widget%2Fcrawler%2F%3Fmedia_id%3D3448610650350861885&imgrefurl=https%3A%2F%2Fwww.instagram.com%2Fp%2FC_b7R7TSKQE%2F&docid=C6f5Y3UDiQcPwM&tbnid=n2JXag0kzyELDM&vet=12ahUKEwi_layg8_eQAxWoh68BHUM6G78QM3oECCwQAA..i&w=1440&h=1440&hcb=2&ved=2ahUKEwi_layg8_eQAxWoh68BHUM6G78QM3oECCwQAA"],
        "videos": ["https://youtu.be/IjgkRtJ-7gI?si=cvfZX9ZXvJaZ1v0w"]
      },
 

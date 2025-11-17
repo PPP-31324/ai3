@@ -77,14 +77,14 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[1]: {
        "texts": ["윈터는 에스파에서 가장 귀엽습니다. "],
-       "images": ["https://image.lawtimes.co.kr/images/192523.jpg"],
-       "videos": ["https://youtu.be/COR_jj7prNE?si=4EVK0lgp3e5EIhuK"]
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.autotribune.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D33088&psig=AOvVaw14OZK9wARKUdtGBf1vxuB9&ust=1763424154145000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjH7Yfx95ADFQAAAAAdAAAAABAE"],
+       "videos": ["https://youtu.be/MvLSfIB8w90?si=jftUDb-wdxf-o0wx"]
      },
 
      labels[3]: {
        "texts": ["오해원은 엔믹스에서 재밌습니다."],
-       "images": ["https://image.lawtimes.co.kr/images/192523.jpg"],
-       "videos": ["https://youtu.be/COR_jj7prNE?si=4EVK0lgp3e5EIhuK"]
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FDDyCebtz1tv%2F&psig=AOvVaw2cW9ShH5d3zAwP63vafBOk&ust=1763424327823000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjo4Nvx95ADFQAAAAAdAAAAABAE"],
+       "videos": ["https://youtu.be/IjgkRtJ-7gI?si=cvfZX9ZXvJaZ1v0w"]
      },
 
     

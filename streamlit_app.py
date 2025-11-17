@@ -77,7 +77,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[1]: {
        "texts": ["윈터는 에스파에서 가장 귀엽습니다. "],
-       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%259C%2588%25ED%2584%25B0%2528aespa%2529%3Fuuid%3Dcc0bddbe-de83-46ef-b02b-d3f42113e7dc&psig=AOvVaw1VNJ19a76dNmxbnZQdJ07T&ust=1763424490947000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJi-tqfy95ADFQAAAAAdAAAAABAu"],
+       "images": ["https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.nbnnews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D818390&psig=AOvVaw1VNJ19a76dNmxbnZQdJ07T&ust=1763424490947000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJi-tqfy95ADFQAAAAAdAAAAABA3"],
        "videos": ["https://youtu.be/MvLSfIB8w90?si=jftUDb-wdxf-o0wx"]
      },
 

@@ -77,7 +77,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[1]: {
        "texts": ["윈터는 에스파에서 가장 귀엽습니다. "],
-       "images": ["https://photo.newsen.com/news_photo/2023/08/02/202308021551233510_1.jpg"],
+       "images": ["https://sungyesa.com/new/data/file/secret/988486029_UV9Hq6Zt_IMG_8053.jpeg"],
        "videos": ["https://youtu.be/MvLSfIB8w90?si=jftUDb-wdxf-o0wx"]
      },
 

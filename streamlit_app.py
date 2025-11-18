@@ -77,13 +77,13 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[1]: {
        "texts": ["윈터는 에스파에서 가장 귀엽습니다. "],
-       "images": ["https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.nbnnews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D818390&psig=AOvVaw1VNJ19a76dNmxbnZQdJ07T&ust=1763424490947000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJi-tqfy95ADFQAAAAAdAAAAABA3"],
+       "images": ["https://photo.newsen.com/news_photo/2023/08/02/202308021551233510_1.jpg"],
        "videos": ["https://youtu.be/MvLSfIB8w90?si=jftUDb-wdxf-o0wx"]
      },
 
      labels[2]: {
        "texts": ["오해원은 엔믹스에서 재밌습니다."],
-       "images": ["https://www.google.com/imgres?q=%EC%98%A4%ED%95%B4%EC%9B%90&imgurl=https%3A%2F%2Flookaside.instagram.com%2Fseo%2Fgoogle_widget%2Fcrawler%2F%3Fmedia_id%3D3448610650350861885&imgrefurl=https%3A%2F%2Fwww.instagram.com%2Fp%2FC_b7R7TSKQE%2F&docid=C6f5Y3UDiQcPwM&tbnid=n2JXag0kzyELDM&vet=12ahUKEwi_layg8_eQAxWoh68BHUM6G78QM3oECCwQAA..i&w=1440&h=1440&hcb=2&ved=2ahUKEwi_layg8_eQAxWoh68BHUM6G78QM3oECCwQAA"],
+       "images": ["https://i.namu.wiki/i/WxCkEgUMd3KrPpgKvA_H8-uS0KfRgCwbHDYOdNSRQM1rJq_f3RHDDGrR_GsSMPgJmnqZRWw0q4mioYLulSpdOg.webp"],
        "videos": ["https://youtu.be/IjgkRtJ-7gI?si=cvfZX9ZXvJaZ1v0w"]
      },
 
